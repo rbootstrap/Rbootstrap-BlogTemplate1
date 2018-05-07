@@ -38,4 +38,4 @@ RBootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework creat
 
 ## Copyright and License
 
-Copyright 2017 RBootstrap. Code released under the [MIT](https://github.com/rbootstrap/RBootstrap-BlogTemplate1/blob/master/LICENSE) license.
+Copyright 2018 RBootstrap. Code released under the [GPLv3](https://github.com/rbootstrap/RBootstrap-BlogTemplate1/blob/master/LICENSE) license.
